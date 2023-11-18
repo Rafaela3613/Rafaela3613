@@ -5,8 +5,7 @@
 
 <p align="left">Sou uma apaixonada por desenvolvimento front-end </p>
 
-![Avatarrafaela](https://readyplayer.me/gallery/65582f979b792809cda768ab-xGO6jajpeg)
-
+![avatarrafaela](https://imgur.com/a/FSvY4to)
 
 - 🌱 Atualmente estou aprendendo AngularJs
 - 👯 Estou procurando colaborar em projetos Front-end
