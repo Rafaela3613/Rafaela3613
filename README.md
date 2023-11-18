@@ -1,15 +1,14 @@
-<h1 align="left">Oi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"> Eu sou a Rafaela Barbosa</h1>
+<h1 align="left">Olá <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"> Eu sou a Rafaela Barbosa</h1>
 <h2>Desenvolvedora Frontend Junior</h2>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=zLordelo&color=green" alt="Profile views" /></p>
 
 <p align="left">Sou uma apaixonada por desenvolvimento front-end </p>
 
-![ReadyPlayerMe-Avatar](https://github.com/Rafaela3613/Rafaela3613/assets/146762445/f0c261e2-35dc-4c6d-90c9-dc9c93428ec5)
 
 - 🌱 Atualmente estou aprendendo AngularJs
 - 👯 Estou procurando colaborar em projetos Front-end
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript
+- 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript
 <br>
 
 ## 🛠 &nbsp;Linguagens e Tecnologias:
