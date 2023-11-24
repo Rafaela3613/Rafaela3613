@@ -6,7 +6,7 @@
 <p align="left">Sou uma apaixonada por desenvolvimento front-end </p>
 
 
-- 🌱 Atualmente estou aprendendo AngularJs
+- 🌱 Atualmente estou aprendendo Angular
 - 👯 Estou procurando colaborar em projetos Front-end
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript
 <br>
