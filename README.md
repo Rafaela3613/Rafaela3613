@@ -36,7 +36,7 @@
 ### Meus repositórios favoritos:
 
 - [Pokedex](https://github.com/Rafaela3613/pokedex.gitb-skills)
-- [Discover-Rafaela](https://github.com/Rafaela3613/Discover-Rafaela.git)
+- [Blog-angular](https://github.com/Rafaela3613/angular-blog.git)
 
 ## Contact
 
