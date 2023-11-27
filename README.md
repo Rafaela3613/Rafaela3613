@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="left">Olá <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"> Eu sou a Rafaela Barbosa</h1>
-<h2>Desenvolvedora Frontend Junior</h2>
+<h2>Desenvolvedora Frontend </h2>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Rafaela3613&color=green" alt="Profile views" /></p>
 
