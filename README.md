@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h1 align="left">Olá <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"> Eu sou a Rafaela Barbosa</h1>
 <h2>Desenvolvedora Frontend Junior</h2>
 <p align="left"> 
@@ -11,27 +13,29 @@
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript
 <br>
 
-## 🛠 &nbsp;Linguagens e Tecnologias:
+## 🚀 Minhas Skills
 
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![AngularJs](https://img.shields.io/badge/-AngularJs-05122A?style=flat&logo=AngulaJs)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
-![Macos](https://img.shields.io/badge/-Macos-05122A?style=flat&logo=Macos)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,github" />
+  </a>
+</p>
 
-<br><br>
+## 🛠️Ferramentas de desenvolvimento
 
-## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git," />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaela3613&show_icons=true&theme=radical)
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Rafaela3613&&layout=compact&langs_count=8&card_width=320&theme=radical)
-<br><br>
+
+<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaela3613&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<br>
+
 
 ### Meus repositórios favoritos:
 
