@@ -8,14 +8,14 @@
 
 - 🌱 Atualmente estou aprendendo Angular
 - 👯 Estou procurando colaborar em projetos Front-end
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript
+- 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript,C#
 <br>
 
 ## 🚀 Minhas Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,dotnet,c#,github" />
   </a>
 </p>
 
