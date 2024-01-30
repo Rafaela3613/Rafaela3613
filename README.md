@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,dotnet,c#,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,dotnet,c#," />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git," />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bootstrap" />
   </a>
 </p>
 
