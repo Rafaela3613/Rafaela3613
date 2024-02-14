@@ -6,7 +6,7 @@
 <p align="left">Sou uma apaixonada por desenvolvimento front-end </p>
 
 
-- 🌱 Atualmente estou aprendendo Angular
+- 🌱 Atualmente estou aprendendo Angular e React
 - 👯 Estou procurando colaborar em projetos Front-end
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript,C#
 <br>
@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,dotnet,c#," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,react,typescript,dotnet,c#," />
   </a>
 </p>
 
