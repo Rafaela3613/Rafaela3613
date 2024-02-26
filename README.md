@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bootstrap,vercel" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bootstrap,vercel,apple,npm,yarn,vite,nodejs" />
   </a>
 </p>
 
