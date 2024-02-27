@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente estou aprendendo Angular e React
 - 👯 Estou procurando colaborar em projetos Front-end
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript,C#
+- 💬 Pergunte-me sobre HTML, CSS, JavaScript, Typescript
 <br>
 
 ## 🚀 Minhas Skills
